@@ -10,7 +10,7 @@ iOS:
 
 * 2012: iOS crash handler and reporter (C, C++, ObjC): https://github.com/kstenerud/KSCrash
 * 2010: Mac and iOS audio library (ObjC): https://github.com/kstenerud/ObjectAL-for-iPhone
-* 2011: iOS Universal framewor builder (Python): https://github.com/kstenerud/iOS-Universal-Framework
+* 2011: iOS Universal framework builder (Python): https://github.com/kstenerud/iOS-Universal-Framework
 
 Bit Bashing:
 
